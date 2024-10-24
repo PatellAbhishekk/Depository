@@ -261,3 +261,17 @@ nav {
   .scroll-btn i {
     font-size: 20px;
   }
+  /*  MAIN BOX  */
+.section {
+  padding-block: 5em;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  gap: 50px;
+}
+.col {
+  display: flex;
+  width: 50%;
+}
