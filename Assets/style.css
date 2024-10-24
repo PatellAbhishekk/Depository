@@ -141,4 +141,8 @@ nav {
     background: var(--first-color);
     border-radius: 50%;
   }
+  /*  WRAPPER DESIGN  */
+.wrapper {
+    padding-inline: 10vw;
+  }
   
