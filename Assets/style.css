@@ -45,4 +45,22 @@ html {
   ::-webkit-scrollbar-thumb:hover {
     background: #bbb;
   }
+  /*  GLOBAL BUTTON DESIGN  */
+.btn {
+    font-weight: 500;
+    padding: 12px 20px;
+    background: #efefef;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.4s;
+  }
+  .btn > i {
+    margin-left: 10px;
+  }
+  .btn:hover {
+    background: var(--second-color);
+    color: var(--color-white);
+  }
+  
   
