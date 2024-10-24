@@ -67,4 +67,12 @@ i {
     font-size: 16px;
   }
     
+  /*  BASE  */
+body {
+    background: var(--body-color);
+  }
+  .container {
+    width: 100%;
+    position: relative;
+  }
   
